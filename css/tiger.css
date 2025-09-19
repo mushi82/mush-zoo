@@ -2,8 +2,8 @@ body {
   font-family: Helvetica;
   background-color: rgb(249, 195, 145);
   text-align: center;
+}
   img{
     width: 300px;
     height: auto;
   }
-}
